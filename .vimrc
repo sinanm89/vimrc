@@ -114,6 +114,6 @@ colorscheme delek
 
 
 """" MY SETTINGS 
-set pastetoggle=<Char-61>
+set pastetoggle=<F2>
 
 b
