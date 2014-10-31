@@ -111,3 +111,9 @@ set expandtab
 """MARKDOWN
 let g:vim_markdown_folding_disabled=1
 colorscheme delek 
+
+
+"""" MY SETTINGS 
+set pastetoggle=<Char-61>
+
+b
