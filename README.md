@@ -10,7 +10,7 @@ first do:
 
 then install plugins:
 
-- Launch vim and run 
+Launch vim and run 
 
     :PluginInstall
 
